@@ -1,7 +1,10 @@
-# Bangalore Housing Price - Project Summary
+# Bangalore Housing Price: Project Summary
+
+![image](https://github.com/tathodtushar99/Bangalore-housing-price/assets/90443509/5fdee4ce-ae67-413b-b307-8d724ad6c3ef)
+
 
 🚀 **Project Overview:**
-- Embark on a comprehensive Machine Learning and Data Science journey.
+- Embark on a comprehensive machine learning and data science journey.
 - Gain insights into real-life challenges faced by data scientists in major companies.
 
 🏠 **Scenario:**
@@ -46,15 +49,15 @@
 - Utilize Nginx as a web server with a reverse proxy setup to route API requests to the Flask server.
 
 🖥️ **Local and Cloud Setup:**
-- Detailed guides for setting up Nginx locally on Windows and on AWS EC2 (Ubuntu).
-- Tips for web accessibility and security considerations.
+- Detailed guides for setting up Nginx locally on Windows and on AWS EC2 (Ubuntu)
+- Tips for web accessibility and security considerations
 
 🔄 **Conclusion and Development Tips:**
 - Encouragement to watch the entire tutorial series for end-to-end deployment insights.
 - Emphasis on the joy of deploying code to production.
 
 🌐 **Additional Technical Details:**
-- Explains HTTP request standards, sets up routes, establishes reverse proxy, and more.
+- Explains HTTP request standards, sets up routes, establishes a reverse proxy, and more.
 - Promotes practice and provides a GitHub link for additional instructions.
 
 👍 **Encouragement:**
