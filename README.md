@@ -1,7 +1,13 @@
 # Bangalore Housing Price: Project Summary
 
+Local Host
 ![image](https://github.com/tathodtushar99/Bangalore-housing-price/assets/90443509/5fdee4ce-ae67-413b-b307-8d724ad6c3ef)
 
+Cloud
+![SS Cloud](https://github.com/tathodtushar99/Bangalore-housing-price/assets/90443509/5897da6c-81b9-402b-8f68-ae3e954b4dd8)
+
+EC2 Instance 
+![Screenshot (133)](https://github.com/tathodtushar99/Bangalore-housing-price/assets/90443509/33daa6d3-2964-43e6-a3d0-14e1219cf87d)
 
 🚀 **Project Overview:**
 - Embark on a comprehensive machine learning and data science journey.
