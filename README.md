@@ -35,7 +35,7 @@ EC2 Instance
 - An engaging and educational experience covering a range of tools and technologies.
 
 📊 **Data Cleaning and Feature Engineering:**
-- Tutorial videos guide dataset downloading, data cleaning, feature engineering, and dimensionality reduction.
+- Dataset downloading, data cleaning, feature engineering, and dimensionality reduction.
 - Outlier detection and removal techniques ensure data quality.
 
 🧹 **Final Data Cleanup:**
@@ -56,7 +56,7 @@ EC2 Instance
 
 🖥️ **Local and Cloud Setup:**
 - Detailed guides for setting up Nginx locally on Windows and on AWS EC2 (Ubuntu)
-- Tips for web accessibility and security considerations
+- Web accessibility and security considerations
 
 🔄 **Conclusion and Development Tips:**
 - Encouragement to watch the entire tutorial series for end-to-end deployment insights.
